@@ -537,7 +537,9 @@ img.block-right {
 }
 
 .signature {
+    font-family: 'Qwigley', cursive;
     margin-top: 10px;
+    font-size: 75px;
 }
 
 
